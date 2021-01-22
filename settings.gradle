@@ -1,0 +1,3 @@
+include ':linearlayout'
+include ':main'
+rootProject.name = "AndroidTutorial"
