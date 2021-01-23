@@ -1,3 +1,5 @@
+include ':constraintlayout'
+include ':relativelayout'
 include ':linearlayout'
 include ':main'
 rootProject.name = "AndroidTutorial"
